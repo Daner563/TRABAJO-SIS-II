@@ -1,4 +1,4 @@
-# Sistema Gestor de Profesiones Deportivas 
+# Sistema-Gestor de Profesiones Deportivas 
 Proyecto de la materia de sistemas de informacion 2
 
 Integrantes:
